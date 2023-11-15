@@ -65,8 +65,8 @@ git checkout 202207
 
 ## 기타
 
-alias egrep='egrep --color=auto'
-alias fgrep='fgrep --color=auto'
+* alias egrep='egrep --color=auto'
+* alias fgrep='fgrep --color=auto'
 alias grep='grep --color=auto'
 alias l='ls -CF'
 alias la='ls -A'
