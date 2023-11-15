@@ -61,3 +61,15 @@ git checkout 202207
 ## Lab5-1. zipkin/jaeger 셋팅 실습
 ## Lab5-2. Zipkin을 이용한 MSA 환경에서 분산 트렌젝션의 추적
 ## Lab5-3. Transaction UI(API / Web) 연동 실습
+
+
+## 기타
+
+alias egrep='egrep --color=auto'
+alias fgrep='fgrep --color=auto'
+alias grep='grep --color=auto'
+alias l='ls -CF'
+alias la='ls -A'
+alias ll='ls -alF'
+alias ls='ls --color=auto'
+
