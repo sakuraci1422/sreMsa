@@ -75,7 +75,7 @@ alias ls='ls --color=auto'
 
 
 
-## 기타 2
+## k alias만들고 자동완성 기능 되게 하기
 
 * echo 'complete -o default -F __start_kubectl k' >>~/.bashrc
 . ~/.bashrc
