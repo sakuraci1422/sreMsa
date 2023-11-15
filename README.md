@@ -73,3 +73,10 @@ alias la='ls -A'
 alias ll='ls -alF'
 alias ls='ls --color=auto'
 
+
+
+## 기타 2
+
+* echo 'complete -o default -F __start_kubectl k' >>~/.bashrc
+. ~/.bashrc
+  
