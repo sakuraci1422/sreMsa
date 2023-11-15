@@ -79,4 +79,32 @@ alias ls='ls --color=auto'
 
 * echo 'complete -o default -F __start_kubectl k' >>~/.bashrc
 . ~/.bashrc
-  
+
+
+## Short-names 
+| Short name    |Full name                  |
+|---------------|---------------------------|
+| po            |pods                       |
+| rs            |replicasets                |
+| svc           |services                   |
+| ns            |namespaces                 |
+| no            |nodes                      |
+| ep            |endpoints                  |
+| ds            |daemonsets                 |
+| deploy        |deployments                |
+| -             | -                         |
+| cm            |configmaps                 |
+| cs            |componentstatuses          |
+| csr           |certificatesigningrequests |
+| ev            |events                     |
+| hpa           |horizontalpodautoscalers   |
+| ing           |ingresses                  |
+| limits        |limitranges                |
+| pdb           |poddisruptionbudgets       |
+| psp           |podsecuritypolicies        |
+| pv            |persistentvolumes          |
+| pvc           |persistentvolumeclaims     |
+| quota         |resourcequotas             |
+| rc            |replicationcontrollers     |
+| sa            |serviceaccounts            |
+
