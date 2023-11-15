@@ -108,3 +108,6 @@ alias ls='ls --color=auto'
 | rc            |replicationcontrollers     |
 | sa            |serviceaccounts            |
 
+
+## tmux
+
