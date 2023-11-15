@@ -110,4 +110,18 @@ alias ls='ls --color=auto'
 
 
 ## tmux
+* 세로운 세션 생성 : tmux ⏎ 
+* 세로운 세션 생성(이름지정) : tmux new -s 이름⏎
+* 세션 리스트 : tmux ls⏎
+* 세션에서 나오기 : ctl+b,d
+* 세션 접속 : tmux attach -t 이름
+
+## 강의 주소
+https://github.com/Finfra
+
+* 강의 파일 구글 드라이브	https://drive.google.com/drive/folders/1Mnxg2dLnyCBaY_ZwnTUuUvjotBKaGS1B
+* 강의 노트 ( 현재 파일 )	bit.ly/202311_msa
+* 강의 수강후 모임	https://www.facebook.com/groups/namjunggu
+* 강의 소스	 https://github.com/Finfra/sreMsa
+
 
