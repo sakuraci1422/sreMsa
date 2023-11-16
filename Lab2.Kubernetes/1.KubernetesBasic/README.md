@@ -298,3 +298,8 @@ iptables -t nat -L KUBE-SERVICES
 | quota         |resourcequotas             |
 | rc            |replicationcontrollers     |
 | sa            |serviceaccounts            |
+
+
+## Defaul namespace 지정
+* k config set-context --current --namespace=kube-system
+* 
